@@ -2,7 +2,7 @@ require 'benchmark'
 
 a = 3 #基数
 b = 100001 #指数
-y = 1
+y = nil
 
 # 普通にべき乗計算した場合
 
